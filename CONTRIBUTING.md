@@ -1,12 +1,18 @@
-This is a [Clojure contrib] project.
+Đây là một [Đóng góp của Clojure] dự án.
 
-Under the Clojure contrib [guidelines], this project cannot accept
-pull requests. All patches must be submitted via [JIRA].
+Dưới sự đóng góp của Clojure [hướng dẫn], dự án này không thể chấp nhận
+kéo yêu cầu. Tất cả các bản vá lỗi phải được nộp qua [Chi].
 
-See [Contributing] on the Clojure website for
-more information on how to contribute.
+Xem [Góp phần] trên trang web Clojure cho
+thêm thông tin về cách đóng góp.
 
-[Clojure contrib]: https://clojure.org/community/contrib_libs
-[Contributing]: https://clojure.org/community/contributing
-[JIRA]: https://clojure.atlassian.net/browse/DJSON
-[guidelines]: https://clojure.org/community/contrib_howto
+[Cống góp từ vải thô]: https://clojure.org/community/contrib_libs
+[Đóng góp]: https://clojure.org/community/contributing
+[jira]: https://clojure.atlassian.net/browse/DJSON
+[hướng dẫn]: https://clojure.org/community/contrib_howto
+
+
+
+
+
+
